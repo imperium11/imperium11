@@ -21,6 +21,7 @@
 #### Frontend
 ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white)
 ![React](https://img.shields.io/badge/React%20-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux%20-%23764ABC.svg?&style=for-the-badge&logo=redux&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 
@@ -33,8 +34,8 @@
 ![Jest](https://img.shields.io/badge/Jest%20-%23C21325.svg?&style=for-the-badge&logo=Jest&logoColor=white)
 
 #### Tools
-![Git](https://img.shields.io/badge/Git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS%20Code%20-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack%20-%238DD6F9.svg?&style=for-the-badge&logo=webpack&logoColor=white)
 ![Babel](https://img.shields.io/badge/Babel%20-%23F9DC3E.svg?&style=for-the-badge&logo=babel&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS%20-%23232F3E.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white)
