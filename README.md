@@ -37,3 +37,4 @@
 ![VSCode](https://img.shields.io/badge/VS%20Code%20-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack%20-%238DD6F9.svg?&style=for-the-badge&logo=webpack&logoColor=white)
 ![Babel](https://img.shields.io/badge/Babel%20-%23F9DC3E.svg?&style=for-the-badge&logo=babel&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS%20-%23232F3E.svg?&style=for-the-badge&logo=amazon-aws&logoColor=white)
