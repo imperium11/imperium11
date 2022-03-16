@@ -1,5 +1,4 @@
-### Hi there 👋
-# I'm Poyraz Akay
+# Poyraz Akay
 ## Full-Stack Software Engineer
   
   :mailbox:  Let's get in touch:
@@ -17,7 +16,7 @@
 
 
 
-## I'm Familiar With:
+## Skills:
 
 #### Frontend
 ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white)
@@ -37,3 +36,4 @@
 ![Git](https://img.shields.io/badge/Git%20-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS%20Code%20-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack%20-%238DD6F9.svg?&style=for-the-badge&logo=webpack&logoColor=white)
+![Babel](https://img.shields.io/badge/Babel%20-%23F9DC3E.svg?&style=for-the-badge&logo=babel&logoColor=white)
