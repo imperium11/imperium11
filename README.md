@@ -28,6 +28,7 @@
 #### Backend
 ![Node](https://img.shields.io/badge/Node.js%20-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express%20-%23000000.svg?&style=for-the-badge&logo=express&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest%20-%23C21325.svg?&style=for-the-badge&logo=Jest&logoColor=white)
